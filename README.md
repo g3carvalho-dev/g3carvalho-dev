@@ -19,12 +19,10 @@ I'm 20 years old and I'm in my fifth semester of my Bachelor's degree in Informa
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title = "CSS3"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP" /></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title = "Figma" /></code>
-<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title = "Adobe Premiere Pro"/></code>
-<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" title = "Adobe After Effects"/></code>    
+<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title = "Adobe Premiere Pro"/></code>    
 
 <h2>Social Media</h2>
 <div align = "center"> 
