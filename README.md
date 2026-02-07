@@ -1,19 +1,22 @@
 ## Hi, i'm Gabriel Garcia and welcome to my profile!👋
 <h2> About me </h2>
-I'm 20 years old and I'm in my fifth semester of my Bachelor's degree in Information Systems at Universidade Federal Rural do Rio de Janeiro (UFRRJ). I also completed the first semester of Analysis and Development of Systems (ADS) and i like to edit some videos sometimes using Adobe Premiere/AE.
+I'm 21 years old and I'm in my fifth semester of my Bachelor's degree in Information Systems at Universidade Veiga de Almeida (UVA). I also completed the first semester of Analysis and Development of Systems (ADS) and i like to edit some videos sometimes using Adobe Premiere/AE.
 <br>
 <br>
-- 🔭 I’m currently looking for my first job
+- 🔭 I’m currently interning at Vertex Digital
 <br>
-- 🌱 I’m currently learning Jakarta EE (Java EE)
+- 🌱 I’m currently working and learning PHP (+ 8.1)
 <br>
 - 👯 I’m looking to collaborate on Back-End projects to enhance my portfolio and my knowledge 
 <br>
 - 📫 How to reach me: Feel free to reach out to me on any of my social media profiles.
 <br>
-- 😄 Pronouns: He/Him
 <h2>Languages and Tecnologies</h2>
-<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C" /></code>
+<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP"/></code>
+<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title = "Laravel"/></code>
+<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title = "MongoDB"/></code>
+<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title = "Docker"/></code>
+<code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title = "Postman"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" /></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "Java"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title = "HTML5"/></code>
@@ -30,11 +33,4 @@ I'm 20 years old and I'm in my fifth semester of my Bachelor's degree in Informa
   <a href="https://www.linkedin.com/in/garciacarvalho/" target="_blank""><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2>My Stats</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabiruPtx&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabiruPtx&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" />
-</a>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiruPtx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiruPtx&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)-->
